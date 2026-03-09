@@ -1,5 +1,3 @@
-# kikiZhang
-Partner Designer and Project Manager based in Melbourne
 # Hi there, I'm Kiki Zhang 👋
 
 I'm a **Partner Designer and Project Manager** currently based in Melbourne. I specialize in bridging the gap between design vision and project execution.
