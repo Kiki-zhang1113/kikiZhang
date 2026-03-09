@@ -3,7 +3,7 @@
 I'm a **Partner Designer and Project Manager** currently based in Melbourne. I specialize in bridging the gap between design vision and project execution.
 
 ### 🚀 Current Focus
-* **Project Lead:** Currently overseeing the final stages of the **TipMi** app.
+* **Project Designer:** Currently overseeing the final stages of the **TipMi** app.
 * **Launch Date:** Officially launching on **March 16, 2026**.
 
 ### 🛠 Tech & Tools
